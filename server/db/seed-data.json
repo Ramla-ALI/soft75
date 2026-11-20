@@ -1,0 +1,3954 @@
+{
+ "start": "2026-11-19",
+ "totalDays": 75,
+ "books": [
+  {
+   "title": "Atomic Habits",
+   "author": "James Clear",
+   "from": 1,
+   "to": 32
+  },
+  {
+   "title": "The Midnight Library",
+   "author": "Matt Haig",
+   "from": 33,
+   "to": 61
+  },
+  {
+   "title": "Ikigai",
+   "author": "Héctor García and Francesc Miralles",
+   "from": 62,
+   "to": 75
+  }
+ ],
+ "recipes": [
+  {
+   "id": "berry-overnight-oats",
+   "name": "Berry overnight oats",
+   "meal": "breakfast",
+   "time": "5 mins + overnight",
+   "ingredients": [
+    "40g oats",
+    "120ml milk",
+    "2 tbsp yoghurt",
+    "1 tbsp chia seeds",
+    "handful of berries",
+    "drizzle of honey"
+   ],
+   "method": [
+    "Mix the oats, milk, yoghurt and chia seeds in a jar.",
+    "Cover and chill overnight.",
+    "In the morning, top with berries and a little honey."
+   ]
+  },
+  {
+   "id": "spinach-feta-omelette",
+   "name": "Spinach & feta omelette",
+   "meal": "breakfast",
+   "time": "10 mins",
+   "ingredients": [
+    "2 eggs",
+    "handful of spinach",
+    "30g feta",
+    "cherry tomatoes",
+    "1 tsp olive oil",
+    "black pepper"
+   ],
+   "method": [
+    "Whisk the eggs with black pepper.",
+    "Wilt the spinach in the oil in a small pan.",
+    "Pour in the eggs, crumble over the feta and cook until just set.",
+    "Fold and serve with halved cherry tomatoes."
+   ]
+  },
+  {
+   "id": "greek-yoghurt-parfait",
+   "name": "Greek yoghurt parfait",
+   "meal": "breakfast",
+   "time": "10 mins",
+   "ingredients": [
+    "150g Greek yoghurt",
+    "30g granola",
+    "1 banana",
+    "pinch of cinnamon",
+    "drizzle of honey"
+   ],
+   "method": [
+    "Slice the banana.",
+    "Layer yoghurt, granola and banana in a glass.",
+    "Finish with cinnamon and a drizzle of honey."
+   ]
+  },
+  {
+   "id": "avocado-egg-toast",
+   "name": "Avocado & egg toast",
+   "meal": "breakfast",
+   "time": "10 mins",
+   "ingredients": [
+    "1–2 slices wholegrain bread",
+    "½ avocado",
+    "1 egg",
+    "squeeze of lemon",
+    "chilli flakes"
+   ],
+   "method": [
+    "Toast the bread.",
+    "Mash the avocado with lemon and a pinch of salt.",
+    "Poach or fry the egg.",
+    "Spread the avocado on the toast, top with the egg and chilli flakes."
+   ]
+  },
+  {
+   "id": "banana-oat-pancakes",
+   "name": "Banana oat pancakes",
+   "meal": "breakfast",
+   "time": "15 mins",
+   "ingredients": [
+    "1 ripe banana",
+    "2 eggs",
+    "40g oats",
+    "pinch of cinnamon",
+    "yoghurt",
+    "berries"
+   ],
+   "method": [
+    "Blend the banana, eggs, oats and cinnamon until smooth.",
+    "Cook small pancakes in a lightly oiled pan, about 2 minutes each side.",
+    "Serve with yoghurt and berries."
+   ]
+  },
+  {
+   "id": "shakshuka-for-one",
+   "name": "Shakshuka for one",
+   "meal": "breakfast",
+   "time": "20 mins",
+   "ingredients": [
+    "2 eggs",
+    "½ tin chopped tomatoes",
+    "½ red pepper",
+    "½ onion",
+    "1 garlic clove",
+    "½ tsp cumin",
+    "½ tsp paprika",
+    "coriander"
+   ],
+   "method": [
+    "Soften the sliced onion and pepper in a little oil.",
+    "Add the garlic, cumin and paprika for 1 minute.",
+    "Pour in the tomatoes and simmer for 8 minutes.",
+    "Make two wells, crack in the eggs, cover and cook for 5 minutes.",
+    "Scatter with coriander and serve with warm bread."
+   ]
+  },
+  {
+   "id": "green-smoothie-peanut-butter-toast",
+   "name": "Green smoothie & peanut butter toast",
+   "meal": "breakfast",
+   "time": "10 mins",
+   "ingredients": [
+    "Handful of spinach",
+    "1 banana",
+    "200ml milk",
+    "1 tbsp oats",
+    "1 slice wholegrain bread",
+    "1 tbsp peanut butter"
+   ],
+   "method": [
+    "Blend the spinach, banana, milk and oats until smooth.",
+    "Toast the bread and spread with peanut butter."
+   ]
+  },
+  {
+   "id": "chicken-quinoa-bowl",
+   "name": "Chicken & quinoa bowl",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "1 chicken breast",
+    "60g quinoa",
+    "cucumber",
+    "cherry tomatoes",
+    "handful of rocket",
+    "lemon",
+    "olive oil"
+   ],
+   "method": [
+    "Cook the quinoa according to the packet.",
+    "Season and pan-fry the chicken for 6–7 minutes each side until cooked through, then slice.",
+    "Toss quinoa with chopped cucumber, tomatoes and rocket.",
+    "Top with the chicken and dress with lemon and olive oil."
+   ]
+  },
+  {
+   "id": "lentil-vegetable-soup",
+   "name": "Lentil & vegetable soup",
+   "meal": "lunch",
+   "time": "35 mins",
+   "ingredients": [
+    "150g red lentils",
+    "1 onion",
+    "2 carrots",
+    "2 celery sticks",
+    "1 tin chopped tomatoes",
+    "1 litre veg stock",
+    "1 tsp cumin"
+   ],
+   "method": [
+    "Soften the chopped onion, carrots and celery in a little oil.",
+    "Add the cumin, lentils, tomatoes and stock.",
+    "Simmer for 25 minutes, then blend partly or fully.",
+    "Keeps in the fridge for 3 days."
+   ]
+  },
+  {
+   "id": "tuna-sweetcorn-wrap",
+   "name": "Tuna & sweetcorn wrap",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "1 wholemeal wrap",
+    "1 small tin tuna",
+    "2 tbsp sweetcorn",
+    "1 tbsp Greek yoghurt",
+    "lettuce",
+    "cucumber"
+   ],
+   "method": [
+    "Mix the tuna, sweetcorn and yoghurt.",
+    "Layer lettuce and cucumber on the wrap.",
+    "Add the tuna mix, roll up tightly and slice in half."
+   ]
+  },
+  {
+   "id": "chickpea-roasted-veg-couscous",
+   "name": "Chickpea & roasted veg couscous",
+   "meal": "lunch",
+   "time": "30 mins",
+   "ingredients": [
+    "60g couscous",
+    "½ tin chickpeas",
+    "1 courgette",
+    "1 red pepper",
+    "½ red onion",
+    "olive oil",
+    "lemon",
+    "mint"
+   ],
+   "method": [
+    "Chop the vegetables, toss with chickpeas and oil, and roast at 200°C for 25 minutes.",
+    "Pour boiling water over the couscous, cover for 5 minutes and fluff with a fork.",
+    "Mix everything with lemon juice and fresh mint."
+   ]
+  },
+  {
+   "id": "halloumi-roasted-pepper-salad",
+   "name": "Halloumi & roasted pepper salad",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "60g halloumi",
+    "1 roasted red pepper (jar)",
+    "mixed leaves",
+    "cucumber",
+    "olives",
+    "balsamic",
+    "olive oil"
+   ],
+   "method": [
+    "Slice the halloumi and griddle for 2 minutes each side until golden.",
+    "Arrange leaves, sliced pepper, cucumber and olives.",
+    "Top with halloumi and drizzle with balsamic and oil."
+   ]
+  },
+  {
+   "id": "falafel-hummus-pitta",
+   "name": "Falafel & hummus pitta",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "4 falafel",
+    "1 wholemeal pitta",
+    "2 tbsp hummus",
+    "lettuce",
+    "tomato",
+    "cucumber",
+    "chilli sauce"
+   ],
+   "method": [
+    "Warm the falafel in the oven for 10 minutes.",
+    "Toast and open the pitta.",
+    "Spread with hummus, fill with salad and falafel, and add a little chilli sauce."
+   ]
+  },
+  {
+   "id": "egg-fried-brown-rice",
+   "name": "Egg fried brown rice",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "150g brown rice",
+    "2 eggs",
+    "frozen peas",
+    "1 carrot",
+    "2 spring onions",
+    "1 tbsp soy sauce",
+    "1 tsp sesame oil"
+   ],
+   "method": [
+    "Stir-fry the carrot, peas and spring onions in sesame oil for 3 minutes.",
+    "Add the rice and heat through.",
+    "Push to one side, scramble the eggs, then mix together.",
+    "Season with soy sauce."
+   ]
+  },
+  {
+   "id": "sweet-potato-black-bean-bowl",
+   "name": "Sweet potato & black bean bowl",
+   "meal": "lunch",
+   "time": "30 mins",
+   "ingredients": [
+    "1 sweet potato",
+    "½ tin black beans",
+    "sweetcorn",
+    "½ avocado",
+    "salsa",
+    "lime",
+    "smoked paprika"
+   ],
+   "method": [
+    "Cube the sweet potato, toss with oil and paprika, and roast at 200°C for 25 minutes.",
+    "Warm the black beans and sweetcorn.",
+    "Build the bowl and top with avocado, salsa and a squeeze of lime."
+   ]
+  },
+  {
+   "id": "prawn-avocado-salad",
+   "name": "Prawn & avocado salad",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "100g cooked prawns",
+    "½ avocado",
+    "mixed leaves",
+    "cherry tomatoes",
+    "cucumber",
+    "lime",
+    "olive oil"
+   ],
+   "method": [
+    "Slice the avocado, tomatoes and cucumber.",
+    "Arrange on the leaves with the prawns.",
+    "Dress with lime juice and olive oil."
+   ]
+  },
+  {
+   "id": "mediterranean-pasta-salad",
+   "name": "Mediterranean pasta salad",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "75g wholewheat pasta",
+    "cherry tomatoes",
+    "cucumber",
+    "olives",
+    "30g feta",
+    "red onion",
+    "basil",
+    "olive oil",
+    "lemon"
+   ],
+   "method": [
+    "Cook the pasta, then rinse under cold water.",
+    "Mix with chopped tomatoes, cucumber, olives and a little red onion.",
+    "Crumble over feta and dress with oil, lemon and basil."
+   ]
+  },
+  {
+   "id": "chicken-caesar-style-salad",
+   "name": "Chicken Caesar-style salad",
+   "meal": "lunch",
+   "time": "20 mins",
+   "ingredients": [
+    "1 chicken breast",
+    "romaine lettuce",
+    "1 slice wholegrain bread",
+    "2 tbsp Greek yoghurt",
+    "1 tsp Dijon mustard",
+    "lemon",
+    "1 tbsp parmesan"
+   ],
+   "method": [
+    "Cook and slice the chicken.",
+    "Cube the bread and toast in the oven for 8 minutes to make croutons.",
+    "Mix yoghurt, mustard, lemon and parmesan for the dressing.",
+    "Toss the lettuce with the dressing and top with chicken and croutons."
+   ]
+  },
+  {
+   "id": "lemon-herb-salmon",
+   "name": "Lemon herb salmon",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 salmon fillets",
+    "400g baby potatoes",
+    "200g green beans",
+    "1 lemon",
+    "dill or parsley",
+    "olive oil"
+   ],
+   "method": [
+    "Halve the potatoes, toss with oil and roast at 200°C for 25 minutes.",
+    "Top the salmon with lemon slices and herbs and add to the tray for the last 12–15 minutes.",
+    "Steam the green beans for 4 minutes and serve together."
+   ]
+  },
+  {
+   "id": "chicken-vegetable-stir-fry",
+   "name": "Chicken & vegetable stir-fry",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 chicken breasts",
+    "2 nests of noodles",
+    "1 pepper",
+    "1 carrot",
+    "broccoli",
+    "2 garlic cloves",
+    "ginger",
+    "2 tbsp soy sauce",
+    "1 tbsp honey"
+   ],
+   "method": [
+    "Cook the noodles and drain.",
+    "Stir-fry sliced chicken until cooked through, then add the garlic and ginger.",
+    "Add the sliced vegetables for 4 minutes.",
+    "Stir in soy and honey, then toss through the noodles."
+   ]
+  },
+  {
+   "id": "beef-bean-chilli",
+   "name": "Beef & bean chilli",
+   "meal": "dinner",
+   "time": "40 mins",
+   "ingredients": [
+    "400g lean beef mince",
+    "1 onion",
+    "1 pepper",
+    "2 garlic cloves",
+    "1 tin kidney beans",
+    "1 tin chopped tomatoes",
+    "1 tsp cumin",
+    "1 tsp chilli powder",
+    "brown rice"
+   ],
+   "method": [
+    "Brown the mince, then add the onion, pepper and garlic.",
+    "Stir in the spices, tomatoes and beans.",
+    "Simmer for 25 minutes.",
+    "Serve with brown rice. Leftovers freeze well."
+   ]
+  },
+  {
+   "id": "red-lentil-dhal",
+   "name": "Red lentil dhal",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "200g red lentils",
+    "1 onion",
+    "3 garlic cloves",
+    "ginger",
+    "1 tsp turmeric",
+    "1 tsp cumin",
+    "1 tin coconut milk",
+    "spinach",
+    "brown rice"
+   ],
+   "method": [
+    "Soften the onion, garlic and ginger.",
+    "Add the spices for 1 minute, then the lentils, coconut milk and 500ml water.",
+    "Simmer for 20 minutes, stirring, until thick.",
+    "Stir in spinach and serve with rice."
+   ]
+  },
+  {
+   "id": "baked-chicken-fajitas",
+   "name": "Baked chicken fajitas",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 chicken breasts",
+    "2 peppers",
+    "1 red onion",
+    "2 tsp fajita spice",
+    "olive oil",
+    "4 wholemeal tortillas",
+    "salsa",
+    "Greek yoghurt"
+   ],
+   "method": [
+    "Slice the chicken, peppers and onion and toss with oil and spice.",
+    "Spread on a tray and bake at 200°C for 20 minutes.",
+    "Warm the tortillas and fill with the chicken, salsa and yoghurt."
+   ]
+  },
+  {
+   "id": "turkey-meatballs-with-spaghetti",
+   "name": "Turkey meatballs with spaghetti",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "400g turkey mince",
+    "1 egg",
+    "2 tbsp breadcrumbs",
+    "1 garlic clove",
+    "1 jar tomato sauce",
+    "basil",
+    "wholewheat spaghetti"
+   ],
+   "method": [
+    "Mix the mince, egg, breadcrumbs and grated garlic, and roll into balls.",
+    "Brown the meatballs in a pan.",
+    "Add the tomato sauce and simmer for 15 minutes.",
+    "Serve over spaghetti with fresh basil."
+   ]
+  },
+  {
+   "id": "thai-green-chicken-curry",
+   "name": "Thai green chicken curry",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "3 chicken breasts",
+    "2 tbsp Thai green paste",
+    "1 tin light coconut milk",
+    "green beans",
+    "1 courgette",
+    "lime",
+    "basil",
+    "jasmine rice"
+   ],
+   "method": [
+    "Fry the paste for 1 minute.",
+    "Add the sliced chicken and coat in the paste.",
+    "Pour in the coconut milk and simmer for 10 minutes.",
+    "Add the vegetables for 5 minutes, then finish with lime and basil. Serve with rice."
+   ]
+  },
+  {
+   "id": "spiced-chicken-rice-bariis-style",
+   "name": "Spiced chicken rice (bariis-style)",
+   "meal": "dinner",
+   "time": "45 mins",
+   "ingredients": [
+    "4 chicken thighs",
+    "300g basmati rice",
+    "1 onion",
+    "2 garlic cloves",
+    "1 tsp cumin",
+    "1 tsp ground coriander",
+    "½ tsp cardamom",
+    "1 cinnamon stick",
+    "2 tbsp tomato paste",
+    "600ml chicken stock",
+    "raisins"
+   ],
+   "method": [
+    "Brown the chicken and set aside.",
+    "Soften the onion and garlic, then add the spices and tomato paste.",
+    "Add the rinsed rice, stock and chicken.",
+    "Cover and cook gently for 20–25 minutes until the rice is tender.",
+    "Serve with a fresh salad and a squeeze of lime."
+   ]
+  },
+  {
+   "id": "chickpea-spinach-curry",
+   "name": "Chickpea & spinach curry",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "1 tin chickpeas",
+    "1 tin chopped tomatoes",
+    "1 onion",
+    "2 garlic cloves",
+    "2 tsp curry powder",
+    "spinach",
+    "2 tbsp yoghurt",
+    "brown rice"
+   ],
+   "method": [
+    "Soften the onion and garlic, then add the curry powder.",
+    "Add the tomatoes and chickpeas and simmer for 15 minutes.",
+    "Stir in the spinach until wilted.",
+    "Serve with rice and a spoonful of yoghurt."
+   ]
+  },
+  {
+   "id": "baked-cod-with-sweet-potato-wedges",
+   "name": "Baked cod with sweet potato wedges",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 cod fillets",
+    "2 sweet potatoes",
+    "paprika",
+    "olive oil",
+    "lemon",
+    "parsley",
+    "frozen peas"
+   ],
+   "method": [
+    "Cut the sweet potatoes into wedges, toss with oil and paprika, and roast at 200°C for 30 minutes.",
+    "Add the cod, topped with lemon and parsley, for the last 12–15 minutes.",
+    "Serve with peas."
+   ]
+  },
+  {
+   "id": "chicken-shawarma-traybake",
+   "name": "Chicken shawarma traybake",
+   "meal": "dinner",
+   "time": "40 mins",
+   "ingredients": [
+    "4 chicken thighs",
+    "2 tsp shawarma spice",
+    "1 red onion",
+    "1 pepper",
+    "yoghurt",
+    "lemon",
+    "cucumber",
+    "flatbreads"
+   ],
+   "method": [
+    "Coat the chicken in yoghurt, lemon and spice.",
+    "Roast with the sliced onion and pepper at 200°C for 30 minutes.",
+    "Slice and serve in flatbreads with cucumber and a garlic-yoghurt sauce."
+   ]
+  },
+  {
+   "id": "prawn-vegetable-paella",
+   "name": "Prawn & vegetable paella",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "200g raw prawns",
+    "200g paella rice",
+    "1 onion",
+    "1 pepper",
+    "2 garlic cloves",
+    "1 tsp smoked paprika",
+    "saffron or turmeric",
+    "1 tin chopped tomatoes",
+    "700ml chicken stock",
+    "frozen peas",
+    "lemon"
+   ],
+   "method": [
+    "Soften the onion, pepper and garlic.",
+    "Stir in the paprika, saffron and rice.",
+    "Add the tomatoes and stock and simmer for 18 minutes without stirring.",
+    "Add the prawns and peas for the last 5 minutes. Serve with lemon wedges."
+   ]
+  },
+  {
+   "id": "beef-broccoli-stir-fry",
+   "name": "Beef & broccoli stir-fry",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "250g lean beef strips",
+    "1 head of broccoli",
+    "2 garlic cloves",
+    "ginger",
+    "2 tbsp soy sauce",
+    "1 tbsp oyster sauce",
+    "1 tsp cornflour",
+    "rice"
+   ],
+   "method": [
+    "Toss the beef in the cornflour and stir-fry quickly until browned, then remove.",
+    "Stir-fry the broccoli, garlic and ginger for 4 minutes with a splash of water.",
+    "Return the beef, add the sauces and toss. Serve with rice."
+   ]
+  },
+  {
+   "id": "vegetable-lasagne",
+   "name": "Vegetable lasagne",
+   "meal": "dinner",
+   "time": "60 mins",
+   "ingredients": [
+    "lasagne sheets",
+    "1 aubergine",
+    "2 courgettes",
+    "1 pepper",
+    "1 onion",
+    "1 jar tomato sauce",
+    "250g ricotta",
+    "spinach",
+    "50g mozzarella"
+   ],
+   "method": [
+    "Roast the chopped vegetables at 200°C for 20 minutes, then stir into the tomato sauce.",
+    "Mix the ricotta with wilted spinach.",
+    "Layer sauce, sheets and ricotta in a dish, finishing with sauce and mozzarella.",
+    "Bake at 190°C for 30 minutes."
+   ]
+  },
+  {
+   "id": "moroccan-chicken-tagine",
+   "name": "Moroccan chicken tagine",
+   "meal": "dinner",
+   "time": "50 mins",
+   "ingredients": [
+    "6 chicken thighs",
+    "1 onion",
+    "2 garlic cloves",
+    "2 tsp ras el hanout",
+    "1 tin chickpeas",
+    "1 tin chopped tomatoes",
+    "dried apricots",
+    "300ml chicken stock",
+    "couscous",
+    "coriander"
+   ],
+   "method": [
+    "Brown the chicken and set aside.",
+    "Soften the onion and garlic, then add the spice.",
+    "Add the tomatoes, stock, chickpeas, apricots and chicken.",
+    "Simmer for 35 minutes. Serve with couscous and coriander."
+   ]
+  },
+  {
+   "id": "teriyaki-salmon-with-pak-choi",
+   "name": "Teriyaki salmon with pak choi",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 salmon fillets",
+    "3 tbsp soy sauce",
+    "1 tbsp honey",
+    "ginger",
+    "1 garlic clove",
+    "2 pak choi",
+    "sesame seeds",
+    "rice"
+   ],
+   "method": [
+    "Mix the soy, honey, ginger and garlic.",
+    "Bake the salmon at 200°C for 12 minutes, brushing with the sauce halfway.",
+    "Steam the pak choi for 3 minutes.",
+    "Serve on rice with sesame seeds."
+   ]
+  },
+  {
+   "id": "lamb-kofta-with-tabbouleh",
+   "name": "Lamb kofta with tabbouleh",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "400g lean lamb mince",
+    "1 onion",
+    "1 tsp cumin",
+    "1 tsp ground coriander",
+    "parsley",
+    "80g bulgur wheat",
+    "tomatoes",
+    "cucumber",
+    "mint",
+    "lemon",
+    "yoghurt"
+   ],
+   "method": [
+    "Mix the mince, onion, spices and parsley, and shape onto skewers.",
+    "Grill for 10–12 minutes, turning, until cooked through.",
+    "Soak the bulgur in boiling water for 15 minutes, then mix with tomato, cucumber, mint, parsley and lemon.",
+    "Serve with yoghurt."
+   ]
+  },
+  {
+   "id": "chicken-mushroom-pasta",
+   "name": "Chicken & mushroom pasta",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 chicken breasts",
+    "200g mushrooms",
+    "2 garlic cloves",
+    "150g wholewheat pasta",
+    "3 tbsp light cream cheese",
+    "spinach",
+    "parmesan"
+   ],
+   "method": [
+    "Cook the pasta, keeping a cup of the water.",
+    "Fry the sliced chicken until cooked, then add mushrooms and garlic.",
+    "Stir in the cream cheese and a splash of pasta water to make a sauce.",
+    "Add the spinach and pasta, and finish with parmesan."
+   ]
+  },
+  {
+   "id": "stuffed-peppers",
+   "name": "Stuffed peppers",
+   "meal": "dinner",
+   "time": "45 mins",
+   "ingredients": [
+    "4 peppers",
+    "250g lean beef mince",
+    "rice",
+    "1 onion",
+    "½ tin chopped tomatoes",
+    "1 tsp paprika",
+    "30g cheese"
+   ],
+   "method": [
+    "Halve and deseed the peppers.",
+    "Brown the mince with the onion and paprika, then add the tomatoes and cooked rice.",
+    "Fill the peppers, top with cheese and bake at 190°C for 30 minutes."
+   ]
+  },
+  {
+   "id": "jollof-rice-with-chicken",
+   "name": "Jollof rice with chicken",
+   "meal": "dinner",
+   "time": "50 mins",
+   "ingredients": [
+    "4 chicken thighs",
+    "300g long-grain rice",
+    "2 red peppers",
+    "1 onion",
+    "1 tin plum tomatoes",
+    "2 tbsp tomato paste",
+    "scotch bonnet",
+    "1 tsp thyme",
+    "1 tsp curry powder",
+    "600ml chicken stock"
+   ],
+   "method": [
+    "Blend the peppers, onion, tomatoes and chilli.",
+    "Brown the chicken and set aside.",
+    "Fry the tomato paste, then the blended sauce for 10 minutes.",
+    "Add the spices, stock, rinsed rice and chicken. Cover and cook on low for 25 minutes."
+   ]
+  },
+  {
+   "id": "fish-tacos-with-slaw",
+   "name": "Fish tacos with slaw",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 white fish fillets",
+    "1 tsp smoked paprika",
+    "4 small tortillas",
+    "red cabbage",
+    "1 carrot",
+    "lime",
+    "Greek yoghurt",
+    "coriander"
+   ],
+   "method": [
+    "Season the fish with paprika and pan-fry for 3–4 minutes each side.",
+    "Shred the cabbage and carrot and mix with lime and yoghurt.",
+    "Flake the fish into the warm tortillas, top with slaw and coriander."
+   ]
+  },
+  {
+   "id": "butternut-squash-chickpea-stew",
+   "name": "Butternut squash & chickpea stew",
+   "meal": "dinner",
+   "time": "40 mins",
+   "ingredients": [
+    "½ butternut squash",
+    "1 tin chickpeas",
+    "1 tin chopped tomatoes",
+    "1 onion",
+    "2 garlic cloves",
+    "1 tsp cumin",
+    "1 tsp cinnamon",
+    "500ml veg stock",
+    "spinach",
+    "crusty bread"
+   ],
+   "method": [
+    "Soften the onion and garlic with the spices.",
+    "Add the cubed squash, chickpeas, tomatoes and stock.",
+    "Simmer for 25 minutes until the squash is tender.",
+    "Stir in spinach and serve with bread."
+   ]
+  },
+  {
+   "id": "chicken-tikka-with-rice",
+   "name": "Chicken tikka with rice",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 chicken breasts",
+    "3 tbsp yoghurt",
+    "2 tsp tikka spice",
+    "lemon",
+    "rice",
+    "cucumber",
+    "tomato",
+    "red onion"
+   ],
+   "method": [
+    "Marinate cubed chicken in the yoghurt, spice and lemon for at least 30 minutes.",
+    "Thread onto skewers and grill or bake at 220°C for 15–18 minutes.",
+    "Serve with rice and a chopped cucumber, tomato and onion salad."
+   ]
+  },
+  {
+   "id": "beef-noodle-soup-pho-style",
+   "name": "Beef noodle soup (pho-style)",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "200g thin beef steak",
+    "1 litre beef stock",
+    "1 star anise",
+    "1 cinnamon stick",
+    "ginger",
+    "rice noodles",
+    "beansprouts",
+    "spring onion",
+    "lime",
+    "coriander",
+    "soy sauce"
+   ],
+   "method": [
+    "Simmer the stock with star anise, cinnamon and sliced ginger for 15 minutes.",
+    "Cook the noodles and divide into bowls.",
+    "Slice the beef very thinly and lay on the noodles.",
+    "Pour over the boiling stock to cook the beef. Top with beansprouts, herbs and lime."
+   ]
+  },
+  {
+   "id": "margherita-flatbread-pizza",
+   "name": "Margherita flatbread pizza",
+   "meal": "dinner",
+   "time": "20 mins",
+   "ingredients": [
+    "2 wholemeal flatbreads",
+    "4 tbsp passata",
+    "1 ball mozzarella",
+    "cherry tomatoes",
+    "basil",
+    "mixed leaves"
+   ],
+   "method": [
+    "Spread the passata on the flatbreads.",
+    "Top with torn mozzarella and halved tomatoes.",
+    "Bake at 220°C for 8–10 minutes.",
+    "Finish with basil and serve with a side salad."
+   ]
+  }
+ ],
+ "days": [
+  {
+   "n": 1,
+   "date": "2026-11-19",
+   "week": 1,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "lemon-herb-salmon",
+   "workout": "Pilates: full-body mat flow (45 mins)",
+   "recovery": false,
+   "affirmation": "I am building a life I love, one gentle day at a time.",
+   "brainstack": "Journal: write 3 good things from today and why each one mattered (10 mins)",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 1,
+    "to": 10
+   },
+   "milestone": null
+  },
+  {
+   "n": 2,
+   "date": "2026-11-20",
+   "week": 1,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "chicken-vegetable-stir-fry",
+   "workout": "Brisk walk outdoors (45 mins)",
+   "recovery": false,
+   "affirmation": "Small steps still move me forward.",
+   "brainstack": "Sudoku: complete one easy or medium puzzle, no hints",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 11,
+    "to": 20
+   },
+   "milestone": null
+  },
+  {
+   "n": 3,
+   "date": "2026-11-21",
+   "week": 1,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "beef-bean-chilli",
+   "workout": "Strength: squats, lunges, glute bridges, wall push-ups x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "I am allowed to rest and still be proud of myself.",
+   "brainstack": "Recall: without looking, summarise yesterday’s 10 pages in 5 sentences",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 21,
+    "to": 30
+   },
+   "milestone": null
+  },
+  {
+   "n": 4,
+   "date": "2026-11-22",
+   "week": 1,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "red-lentil-dhal",
+   "workout": "Pilates: core and posture (45 mins)",
+   "recovery": false,
+   "affirmation": "My body deserves care, not criticism.",
+   "brainstack": "Colour or doodle for 15 minutes, phone in another room",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 31,
+    "to": 40
+   },
+   "milestone": null
+  },
+  {
+   "n": 5,
+   "date": "2026-11-23",
+   "week": 1,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "baked-chicken-fajitas",
+   "workout": "Dance or a follow-along cardio video (45 mins)",
+   "recovery": false,
+   "affirmation": "I learn quickly and I grow every day.",
+   "brainstack": "Language: learn 5 new words in a language you would love to speak, then use each in a sentence",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 41,
+    "to": 50
+   },
+   "milestone": null
+  },
+  {
+   "n": 6,
+   "date": "2026-11-24",
+   "week": 1,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "turkey-meatballs-with-spaghetti",
+   "workout": "Long walk in the park or nature, or with the family (45 mins)",
+   "recovery": false,
+   "affirmation": "I keep promises to myself.",
+   "brainstack": "Word search or crossword: finish one puzzle",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 51,
+    "to": 60
+   },
+   "milestone": null
+  },
+  {
+   "n": 7,
+   "date": "2026-11-25",
+   "week": 1,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "thai-green-chicken-curry",
+   "workout": "Recovery day: gentle stretching or yoga (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "Progress, not perfection.",
+   "brainstack": "Tiny story: write 100 words that start with an object you can see right now",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 61,
+    "to": 70
+   },
+   "milestone": "One week done! Treat: a new notebook or a café trip"
+  },
+  {
+   "n": 8,
+   "date": "2026-11-26",
+   "week": 2,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "spiced-chicken-rice-bariis-style",
+   "workout": "Pilates: lower body and glutes (45 mins)",
+   "recovery": false,
+   "affirmation": "I am calm, capable and enough.",
+   "brainstack": "Logic: solve 3 riddles or one logic puzzle",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 71,
+    "to": 80
+   },
+   "milestone": null
+  },
+  {
+   "n": 9,
+   "date": "2026-11-27",
+   "week": 2,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "chickpea-spinach-curry",
+   "workout": "Interval walk: 3 mins brisk, 2 mins easy (45 mins)",
+   "recovery": false,
+   "affirmation": "Every day I choose what nourishes me.",
+   "brainstack": "Tech word: learn one new coding or IT term and explain it in your own words",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 81,
+    "to": 90
+   },
+   "milestone": null
+  },
+  {
+   "n": 10,
+   "date": "2026-11-28",
+   "week": 2,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "mediterranean-pasta-salad",
+   "dinner": "baked-cod-with-sweet-potato-wedges",
+   "workout": "Strength: step-ups, water-bottle deadlifts, rows, planks x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "My future in tech is being built right now.",
+   "brainstack": "Art look: study one painting (book or online) for 5 minutes, then write 3 things you noticed",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 91,
+    "to": 100
+   },
+   "milestone": null
+  },
+  {
+   "n": 11,
+   "date": "2026-11-29",
+   "week": 2,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "chicken-caesar-style-salad",
+   "dinner": "chicken-shawarma-traybake",
+   "workout": "Pilates: arms, back and core (45 mins)",
+   "recovery": false,
+   "affirmation": "I give my children a happy, healthy example.",
+   "brainstack": "Memory game: look at a photo for 1 minute, hide it, then list everything you remember",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 101,
+    "to": 110
+   },
+   "milestone": null
+  },
+  {
+   "n": 12,
+   "date": "2026-11-30",
+   "week": 2,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "prawn-vegetable-paella",
+   "workout": "Swim, cycle or a gym class you enjoy (45 mins)",
+   "recovery": false,
+   "affirmation": "I am patient with myself while I grow.",
+   "brainstack": "Brain dump: write every thought on paper, then circle your top 3 for tomorrow",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 111,
+    "to": 120
+   },
+   "milestone": null
+  },
+  {
+   "n": 13,
+   "date": "2026-12-01",
+   "week": 2,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "beef-broccoli-stir-fry",
+   "workout": "Slow yoga flow (45 mins)",
+   "recovery": false,
+   "affirmation": "Good things are coming, and I am ready for them.",
+   "brainstack": "Teach it: explain something you learned this week to someone at home",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 121,
+    "to": 130
+   },
+   "milestone": null
+  },
+  {
+   "n": 14,
+   "date": "2026-12-02",
+   "week": 2,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "vegetable-lasagne",
+   "workout": "Recovery day: gentle stretch, foam roll or an easy walk (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "I trust myself to figure it out.",
+   "brainstack": "Kind note: hand-write a short thank-you message to someone",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 131,
+    "to": 140
+   },
+   "milestone": "Two weeks! Treat: a bubble bath and an early night"
+  },
+  {
+   "n": 15,
+   "date": "2026-12-03",
+   "week": 3,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "moroccan-chicken-tagine",
+   "workout": "Pilates: full-body mat flow (45 mins)",
+   "recovery": false,
+   "affirmation": "Today I show up for me.",
+   "brainstack": "Free choice: pick your favourite activity from this list",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 141,
+    "to": 150
+   },
+   "milestone": null
+  },
+  {
+   "n": 16,
+   "date": "2026-12-04",
+   "week": 3,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "teriyaki-salmon-with-pak-choi",
+   "workout": "Brisk walk outdoors (45 mins)",
+   "recovery": false,
+   "affirmation": "I am building a life I love, one gentle day at a time.",
+   "brainstack": "Journal: write 3 good things from today and why each one mattered (10 mins)",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 151,
+    "to": 160
+   },
+   "milestone": null
+  },
+  {
+   "n": 17,
+   "date": "2026-12-05",
+   "week": 3,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "lamb-kofta-with-tabbouleh",
+   "workout": "Strength: squats, lunges, glute bridges, wall push-ups x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "Small steps still move me forward.",
+   "brainstack": "Sudoku: complete one easy or medium puzzle, no hints",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 161,
+    "to": 170
+   },
+   "milestone": null
+  },
+  {
+   "n": 18,
+   "date": "2026-12-06",
+   "week": 3,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "chicken-mushroom-pasta",
+   "workout": "Pilates: core and posture (45 mins)",
+   "recovery": false,
+   "affirmation": "I am allowed to rest and still be proud of myself.",
+   "brainstack": "Recall: without looking, summarise yesterday’s 10 pages in 5 sentences",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 171,
+    "to": 180
+   },
+   "milestone": null
+  },
+  {
+   "n": 19,
+   "date": "2026-12-07",
+   "week": 3,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "stuffed-peppers",
+   "workout": "Dance or a follow-along cardio video (45 mins)",
+   "recovery": false,
+   "affirmation": "My body deserves care, not criticism.",
+   "brainstack": "Colour or doodle for 15 minutes, phone in another room",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 181,
+    "to": 190
+   },
+   "milestone": null
+  },
+  {
+   "n": 20,
+   "date": "2026-12-08",
+   "week": 3,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "jollof-rice-with-chicken",
+   "workout": "Long walk in the park or nature, or with the family (45 mins)",
+   "recovery": false,
+   "affirmation": "I learn quickly and I grow every day.",
+   "brainstack": "Language: learn 5 new words in a language you would love to speak, then use each in a sentence",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 191,
+    "to": 200
+   },
+   "milestone": null
+  },
+  {
+   "n": 21,
+   "date": "2026-12-09",
+   "week": 3,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "mediterranean-pasta-salad",
+   "dinner": "fish-tacos-with-slaw",
+   "workout": "Recovery day: gentle stretching or yoga (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "I keep promises to myself.",
+   "brainstack": "Word search or crossword: finish one puzzle",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 201,
+    "to": 210
+   },
+   "milestone": "21 days: a habit is forming! Treat: a pamper evening"
+  },
+  {
+   "n": 22,
+   "date": "2026-12-10",
+   "week": 4,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "chicken-caesar-style-salad",
+   "dinner": "butternut-squash-chickpea-stew",
+   "workout": "Pilates: lower body and glutes (45 mins)",
+   "recovery": false,
+   "affirmation": "Progress, not perfection.",
+   "brainstack": "Tiny story: write 100 words that start with an object you can see right now",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 211,
+    "to": 220
+   },
+   "milestone": null
+  },
+  {
+   "n": 23,
+   "date": "2026-12-11",
+   "week": 4,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "chicken-tikka-with-rice",
+   "workout": "Interval walk: 3 mins brisk, 2 mins easy (45 mins)",
+   "recovery": false,
+   "affirmation": "I am calm, capable and enough.",
+   "brainstack": "Logic: solve 3 riddles or one logic puzzle",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 221,
+    "to": 230
+   },
+   "milestone": null
+  },
+  {
+   "n": 24,
+   "date": "2026-12-12",
+   "week": 4,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "beef-noodle-soup-pho-style",
+   "workout": "Strength: step-ups, water-bottle deadlifts, rows, planks x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "Every day I choose what nourishes me.",
+   "brainstack": "Tech word: learn one new coding or IT term and explain it in your own words",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 231,
+    "to": 240
+   },
+   "milestone": null
+  },
+  {
+   "n": 25,
+   "date": "2026-12-13",
+   "week": 4,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "margherita-flatbread-pizza",
+   "workout": "Pilates: arms, back and core (45 mins)",
+   "recovery": false,
+   "affirmation": "My future in tech is being built right now.",
+   "brainstack": "Art look: study one painting (book or online) for 5 minutes, then write 3 things you noticed",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 241,
+    "to": 250
+   },
+   "milestone": null
+  },
+  {
+   "n": 26,
+   "date": "2026-12-14",
+   "week": 4,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "lemon-herb-salmon",
+   "workout": "Swim, cycle or a gym class you enjoy (45 mins)",
+   "recovery": false,
+   "affirmation": "I give my children a happy, healthy example.",
+   "brainstack": "Memory game: look at a photo for 1 minute, hide it, then list everything you remember",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 251,
+    "to": 260
+   },
+   "milestone": null
+  },
+  {
+   "n": 27,
+   "date": "2026-12-15",
+   "week": 4,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "chicken-vegetable-stir-fry",
+   "workout": "Slow yoga flow (45 mins)",
+   "recovery": false,
+   "affirmation": "I am patient with myself while I grow.",
+   "brainstack": "Brain dump: write every thought on paper, then circle your top 3 for tomorrow",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 261,
+    "to": 270
+   },
+   "milestone": null
+  },
+  {
+   "n": 28,
+   "date": "2026-12-16",
+   "week": 4,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "beef-bean-chilli",
+   "workout": "Recovery day: gentle stretch, foam roll or an easy walk (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "Good things are coming, and I am ready for them.",
+   "brainstack": "Teach it: explain something you learned this week to someone at home",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 271,
+    "to": 280
+   },
+   "milestone": null
+  },
+  {
+   "n": 29,
+   "date": "2026-12-17",
+   "week": 5,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "red-lentil-dhal",
+   "workout": "Pilates: full-body mat flow (45 mins)",
+   "recovery": false,
+   "affirmation": "I trust myself to figure it out.",
+   "brainstack": "Kind note: hand-write a short thank-you message to someone",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 281,
+    "to": 290
+   },
+   "milestone": null
+  },
+  {
+   "n": 30,
+   "date": "2026-12-18",
+   "week": 5,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "baked-chicken-fajitas",
+   "workout": "Brisk walk outdoors (45 mins)",
+   "recovery": false,
+   "affirmation": "Today I show up for me.",
+   "brainstack": "Free choice: pick your favourite activity from this list",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 291,
+    "to": 300
+   },
+   "milestone": "30 days! Treat: fresh flowers for your home"
+  },
+  {
+   "n": 31,
+   "date": "2026-12-19",
+   "week": 5,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "turkey-meatballs-with-spaghetti",
+   "workout": "Strength: squats, lunges, glute bridges, wall push-ups x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "I am building a life I love, one gentle day at a time.",
+   "brainstack": "Journal: write 3 good things from today and why each one mattered (10 mins)",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 301,
+    "to": 310
+   },
+   "milestone": null
+  },
+  {
+   "n": 32,
+   "date": "2026-12-20",
+   "week": 5,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "mediterranean-pasta-salad",
+   "dinner": "thai-green-chicken-curry",
+   "workout": "Pilates: core and posture (45 mins)",
+   "recovery": false,
+   "affirmation": "Small steps still move me forward.",
+   "brainstack": "Sudoku: complete one easy or medium puzzle, no hints",
+   "reading": {
+    "book": "Atomic Habits",
+    "from": 311,
+    "to": 320
+   },
+   "milestone": null
+  },
+  {
+   "n": 33,
+   "date": "2026-12-21",
+   "week": 5,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "chicken-caesar-style-salad",
+   "dinner": "spiced-chicken-rice-bariis-style",
+   "workout": "Dance or a follow-along cardio video (45 mins)",
+   "recovery": false,
+   "affirmation": "I am allowed to rest and still be proud of myself.",
+   "brainstack": "Recall: without looking, summarise yesterday’s 10 pages in 5 sentences",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 1,
+    "to": 10
+   },
+   "milestone": null
+  },
+  {
+   "n": 34,
+   "date": "2026-12-22",
+   "week": 5,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "chickpea-spinach-curry",
+   "workout": "Long walk in the park or nature, or with the family (45 mins)",
+   "recovery": false,
+   "affirmation": "My body deserves care, not criticism.",
+   "brainstack": "Colour or doodle for 15 minutes, phone in another room",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 11,
+    "to": 20
+   },
+   "milestone": null
+  },
+  {
+   "n": 35,
+   "date": "2026-12-23",
+   "week": 5,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "baked-cod-with-sweet-potato-wedges",
+   "workout": "Recovery day: gentle stretching or yoga (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "I learn quickly and I grow every day.",
+   "brainstack": "Language: learn 5 new words in a language you would love to speak, then use each in a sentence",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 21,
+    "to": 30
+   },
+   "milestone": null
+  },
+  {
+   "n": 36,
+   "date": "2026-12-24",
+   "week": 6,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "chicken-shawarma-traybake",
+   "workout": "Pilates: lower body and glutes (45 mins)",
+   "recovery": false,
+   "affirmation": "I keep promises to myself.",
+   "brainstack": "Word search or crossword: finish one puzzle",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 31,
+    "to": 40
+   },
+   "milestone": null
+  },
+  {
+   "n": 37,
+   "date": "2026-12-25",
+   "week": 6,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "prawn-vegetable-paella",
+   "workout": "Interval walk: 3 mins brisk, 2 mins easy (45 mins)",
+   "recovery": false,
+   "affirmation": "Progress, not perfection.",
+   "brainstack": "Tiny story: write 100 words that start with an object you can see right now",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 41,
+    "to": 50
+   },
+   "milestone": null
+  },
+  {
+   "n": 38,
+   "date": "2026-12-26",
+   "week": 6,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "beef-broccoli-stir-fry",
+   "workout": "Strength: step-ups, water-bottle deadlifts, rows, planks x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "I am calm, capable and enough.",
+   "brainstack": "Logic: solve 3 riddles or one logic puzzle",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 51,
+    "to": 60
+   },
+   "milestone": null
+  },
+  {
+   "n": 39,
+   "date": "2026-12-27",
+   "week": 6,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "vegetable-lasagne",
+   "workout": "Pilates: arms, back and core (45 mins)",
+   "recovery": false,
+   "affirmation": "Every day I choose what nourishes me.",
+   "brainstack": "Tech word: learn one new coding or IT term and explain it in your own words",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 61,
+    "to": 70
+   },
+   "milestone": null
+  },
+  {
+   "n": 40,
+   "date": "2026-12-28",
+   "week": 6,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "moroccan-chicken-tagine",
+   "workout": "Swim, cycle or a gym class you enjoy (45 mins)",
+   "recovery": false,
+   "affirmation": "My future in tech is being built right now.",
+   "brainstack": "Art look: study one painting (book or online) for 5 minutes, then write 3 things you noticed",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 71,
+    "to": 80
+   },
+   "milestone": null
+  },
+  {
+   "n": 41,
+   "date": "2026-12-29",
+   "week": 6,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "teriyaki-salmon-with-pak-choi",
+   "workout": "Slow yoga flow (45 mins)",
+   "recovery": false,
+   "affirmation": "I give my children a happy, healthy example.",
+   "brainstack": "Memory game: look at a photo for 1 minute, hide it, then list everything you remember",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 81,
+    "to": 90
+   },
+   "milestone": null
+  },
+  {
+   "n": 42,
+   "date": "2026-12-30",
+   "week": 6,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "lamb-kofta-with-tabbouleh",
+   "workout": "Recovery day: gentle stretch, foam roll or an easy walk (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "I am patient with myself while I grow.",
+   "brainstack": "Brain dump: write every thought on paper, then circle your top 3 for tomorrow",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 91,
+    "to": 100
+   },
+   "milestone": null
+  },
+  {
+   "n": 43,
+   "date": "2026-12-31",
+   "week": 7,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "mediterranean-pasta-salad",
+   "dinner": "chicken-mushroom-pasta",
+   "workout": "Pilates: full-body mat flow (45 mins)",
+   "recovery": false,
+   "affirmation": "Good things are coming, and I am ready for them.",
+   "brainstack": "Teach it: explain something you learned this week to someone at home",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 101,
+    "to": 110
+   },
+   "milestone": null
+  },
+  {
+   "n": 44,
+   "date": "2027-01-01",
+   "week": 7,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "chicken-caesar-style-salad",
+   "dinner": "stuffed-peppers",
+   "workout": "Brisk walk outdoors (45 mins)",
+   "recovery": false,
+   "affirmation": "I trust myself to figure it out.",
+   "brainstack": "Kind note: hand-write a short thank-you message to someone",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 111,
+    "to": 120
+   },
+   "milestone": null
+  },
+  {
+   "n": 45,
+   "date": "2027-01-02",
+   "week": 7,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "jollof-rice-with-chicken",
+   "workout": "Strength: squats, lunges, glute bridges, wall push-ups x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "Today I show up for me.",
+   "brainstack": "Free choice: pick your favourite activity from this list",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 121,
+    "to": 130
+   },
+   "milestone": null
+  },
+  {
+   "n": 46,
+   "date": "2027-01-03",
+   "week": 7,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "fish-tacos-with-slaw",
+   "workout": "Pilates: core and posture (45 mins)",
+   "recovery": false,
+   "affirmation": "I am building a life I love, one gentle day at a time.",
+   "brainstack": "Journal: write 3 good things from today and why each one mattered (10 mins)",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 131,
+    "to": 140
+   },
+   "milestone": null
+  },
+  {
+   "n": 47,
+   "date": "2027-01-04",
+   "week": 7,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "butternut-squash-chickpea-stew",
+   "workout": "Dance or a follow-along cardio video (45 mins)",
+   "recovery": false,
+   "affirmation": "Small steps still move me forward.",
+   "brainstack": "Sudoku: complete one easy or medium puzzle, no hints",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 141,
+    "to": 150
+   },
+   "milestone": null
+  },
+  {
+   "n": 48,
+   "date": "2027-01-05",
+   "week": 7,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "chicken-tikka-with-rice",
+   "workout": "Long walk in the park or nature, or with the family (45 mins)",
+   "recovery": false,
+   "affirmation": "I am allowed to rest and still be proud of myself.",
+   "brainstack": "Recall: without looking, summarise yesterday’s 10 pages in 5 sentences",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 151,
+    "to": 160
+   },
+   "milestone": null
+  },
+  {
+   "n": 49,
+   "date": "2027-01-06",
+   "week": 7,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "beef-noodle-soup-pho-style",
+   "workout": "Recovery day: gentle stretching or yoga (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "My body deserves care, not criticism.",
+   "brainstack": "Colour or doodle for 15 minutes, phone in another room",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 161,
+    "to": 170
+   },
+   "milestone": null
+  },
+  {
+   "n": 50,
+   "date": "2027-01-07",
+   "week": 8,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "margherita-flatbread-pizza",
+   "workout": "Pilates: lower body and glutes (45 mins)",
+   "recovery": false,
+   "affirmation": "I learn quickly and I grow every day.",
+   "brainstack": "Language: learn 5 new words in a language you would love to speak, then use each in a sentence",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 171,
+    "to": 180
+   },
+   "milestone": "Day 50! Treat: a museum or gallery day out"
+  },
+  {
+   "n": 51,
+   "date": "2027-01-08",
+   "week": 8,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "lemon-herb-salmon",
+   "workout": "Interval walk: 3 mins brisk, 2 mins easy (45 mins)",
+   "recovery": false,
+   "affirmation": "I keep promises to myself.",
+   "brainstack": "Word search or crossword: finish one puzzle",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 181,
+    "to": 190
+   },
+   "milestone": null
+  },
+  {
+   "n": 52,
+   "date": "2027-01-09",
+   "week": 8,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "chicken-vegetable-stir-fry",
+   "workout": "Strength: step-ups, water-bottle deadlifts, rows, planks x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "Progress, not perfection.",
+   "brainstack": "Tiny story: write 100 words that start with an object you can see right now",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 191,
+    "to": 200
+   },
+   "milestone": null
+  },
+  {
+   "n": 53,
+   "date": "2027-01-10",
+   "week": 8,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "beef-bean-chilli",
+   "workout": "Pilates: arms, back and core (45 mins)",
+   "recovery": false,
+   "affirmation": "I am calm, capable and enough.",
+   "brainstack": "Logic: solve 3 riddles or one logic puzzle",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 201,
+    "to": 210
+   },
+   "milestone": null
+  },
+  {
+   "n": 54,
+   "date": "2027-01-11",
+   "week": 8,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "mediterranean-pasta-salad",
+   "dinner": "red-lentil-dhal",
+   "workout": "Swim, cycle or a gym class you enjoy (45 mins)",
+   "recovery": false,
+   "affirmation": "Every day I choose what nourishes me.",
+   "brainstack": "Tech word: learn one new coding or IT term and explain it in your own words",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 211,
+    "to": 220
+   },
+   "milestone": null
+  },
+  {
+   "n": 55,
+   "date": "2027-01-12",
+   "week": 8,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "chicken-caesar-style-salad",
+   "dinner": "baked-chicken-fajitas",
+   "workout": "Slow yoga flow (45 mins)",
+   "recovery": false,
+   "affirmation": "My future in tech is being built right now.",
+   "brainstack": "Art look: study one painting (book or online) for 5 minutes, then write 3 things you noticed",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 221,
+    "to": 230
+   },
+   "milestone": null
+  },
+  {
+   "n": 56,
+   "date": "2027-01-13",
+   "week": 8,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "turkey-meatballs-with-spaghetti",
+   "workout": "Recovery day: gentle stretch, foam roll or an easy walk (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "I give my children a happy, healthy example.",
+   "brainstack": "Memory game: look at a photo for 1 minute, hide it, then list everything you remember",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 231,
+    "to": 240
+   },
+   "milestone": null
+  },
+  {
+   "n": 57,
+   "date": "2027-01-14",
+   "week": 9,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "thai-green-chicken-curry",
+   "workout": "Pilates: full-body mat flow (45 mins)",
+   "recovery": false,
+   "affirmation": "I am patient with myself while I grow.",
+   "brainstack": "Brain dump: write every thought on paper, then circle your top 3 for tomorrow",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 241,
+    "to": 250
+   },
+   "milestone": null
+  },
+  {
+   "n": 58,
+   "date": "2027-01-15",
+   "week": 9,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "spiced-chicken-rice-bariis-style",
+   "workout": "Brisk walk outdoors (45 mins)",
+   "recovery": false,
+   "affirmation": "Good things are coming, and I am ready for them.",
+   "brainstack": "Teach it: explain something you learned this week to someone at home",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 251,
+    "to": 260
+   },
+   "milestone": null
+  },
+  {
+   "n": 59,
+   "date": "2027-01-16",
+   "week": 9,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "chickpea-spinach-curry",
+   "workout": "Strength: squats, lunges, glute bridges, wall push-ups x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "I trust myself to figure it out.",
+   "brainstack": "Kind note: hand-write a short thank-you message to someone",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 261,
+    "to": 270
+   },
+   "milestone": null
+  },
+  {
+   "n": 60,
+   "date": "2027-01-17",
+   "week": 9,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "baked-cod-with-sweet-potato-wedges",
+   "workout": "Pilates: core and posture (45 mins)",
+   "recovery": false,
+   "affirmation": "Today I show up for me.",
+   "brainstack": "Free choice: pick your favourite activity from this list",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 271,
+    "to": 280
+   },
+   "milestone": "Day 60! Treat: your favourite dessert, guilt free"
+  },
+  {
+   "n": 61,
+   "date": "2027-01-18",
+   "week": 9,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "chicken-shawarma-traybake",
+   "workout": "Dance or a follow-along cardio video (45 mins)",
+   "recovery": false,
+   "affirmation": "I am building a life I love, one gentle day at a time.",
+   "brainstack": "Journal: write 3 good things from today and why each one mattered (10 mins)",
+   "reading": {
+    "book": "The Midnight Library",
+    "from": 281,
+    "to": 290
+   },
+   "milestone": null
+  },
+  {
+   "n": 62,
+   "date": "2027-01-19",
+   "week": 9,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "prawn-vegetable-paella",
+   "workout": "Long walk in the park or nature, or with the family (45 mins)",
+   "recovery": false,
+   "affirmation": "Small steps still move me forward.",
+   "brainstack": "Sudoku: complete one easy or medium puzzle, no hints",
+   "reading": {
+    "book": "Ikigai",
+    "from": 1,
+    "to": 10
+   },
+   "milestone": null
+  },
+  {
+   "n": 63,
+   "date": "2027-01-20",
+   "week": 9,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "beef-broccoli-stir-fry",
+   "workout": "Recovery day: gentle stretching or yoga (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "I am allowed to rest and still be proud of myself.",
+   "brainstack": "Recall: without looking, summarise yesterday’s 10 pages in 5 sentences",
+   "reading": {
+    "book": "Ikigai",
+    "from": 11,
+    "to": 20
+   },
+   "milestone": null
+  },
+  {
+   "n": 64,
+   "date": "2027-01-21",
+   "week": 10,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "vegetable-lasagne",
+   "workout": "Pilates: lower body and glutes (45 mins)",
+   "recovery": false,
+   "affirmation": "My body deserves care, not criticism.",
+   "brainstack": "Colour or doodle for 15 minutes, phone in another room",
+   "reading": {
+    "book": "Ikigai",
+    "from": 21,
+    "to": 30
+   },
+   "milestone": null
+  },
+  {
+   "n": 65,
+   "date": "2027-01-22",
+   "week": 10,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "mediterranean-pasta-salad",
+   "dinner": "moroccan-chicken-tagine",
+   "workout": "Interval walk: 3 mins brisk, 2 mins easy (45 mins)",
+   "recovery": false,
+   "affirmation": "I learn quickly and I grow every day.",
+   "brainstack": "Language: learn 5 new words in a language you would love to speak, then use each in a sentence",
+   "reading": {
+    "book": "Ikigai",
+    "from": 31,
+    "to": 40
+   },
+   "milestone": null
+  },
+  {
+   "n": 66,
+   "date": "2027-01-23",
+   "week": 10,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "chicken-caesar-style-salad",
+   "dinner": "teriyaki-salmon-with-pak-choi",
+   "workout": "Strength: step-ups, water-bottle deadlifts, rows, planks x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "I keep promises to myself.",
+   "brainstack": "Word search or crossword: finish one puzzle",
+   "reading": {
+    "book": "Ikigai",
+    "from": 41,
+    "to": 50
+   },
+   "milestone": null
+  },
+  {
+   "n": 67,
+   "date": "2027-01-24",
+   "week": 10,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "chicken-quinoa-bowl",
+   "dinner": "lamb-kofta-with-tabbouleh",
+   "workout": "Pilates: arms, back and core (45 mins)",
+   "recovery": false,
+   "affirmation": "Progress, not perfection.",
+   "brainstack": "Tiny story: write 100 words that start with an object you can see right now",
+   "reading": {
+    "book": "Ikigai",
+    "from": 51,
+    "to": 60
+   },
+   "milestone": null
+  },
+  {
+   "n": 68,
+   "date": "2027-01-25",
+   "week": 10,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "lentil-vegetable-soup",
+   "dinner": "chicken-mushroom-pasta",
+   "workout": "Swim, cycle or a gym class you enjoy (45 mins)",
+   "recovery": false,
+   "affirmation": "I am calm, capable and enough.",
+   "brainstack": "Logic: solve 3 riddles or one logic puzzle",
+   "reading": {
+    "book": "Ikigai",
+    "from": 61,
+    "to": 70
+   },
+   "milestone": null
+  },
+  {
+   "n": 69,
+   "date": "2027-01-26",
+   "week": 10,
+   "breakfast": "shakshuka-for-one",
+   "lunch": "tuna-sweetcorn-wrap",
+   "dinner": "stuffed-peppers",
+   "workout": "Slow yoga flow (45 mins)",
+   "recovery": false,
+   "affirmation": "Every day I choose what nourishes me.",
+   "brainstack": "Tech word: learn one new coding or IT term and explain it in your own words",
+   "reading": {
+    "book": "Ikigai",
+    "from": 71,
+    "to": 80
+   },
+   "milestone": null
+  },
+  {
+   "n": 70,
+   "date": "2027-01-27",
+   "week": 10,
+   "breakfast": "green-smoothie-peanut-butter-toast",
+   "lunch": "chickpea-roasted-veg-couscous",
+   "dinner": "jollof-rice-with-chicken",
+   "workout": "Recovery day: gentle stretch, foam roll or an easy walk (20 to 30 mins)",
+   "recovery": true,
+   "affirmation": "My future in tech is being built right now.",
+   "brainstack": "Art look: study one painting (book or online) for 5 minutes, then write 3 things you noticed",
+   "reading": {
+    "book": "Ikigai",
+    "from": 81,
+    "to": 90
+   },
+   "milestone": null
+  },
+  {
+   "n": 71,
+   "date": "2027-01-28",
+   "week": 11,
+   "breakfast": "berry-overnight-oats",
+   "lunch": "halloumi-roasted-pepper-salad",
+   "dinner": "fish-tacos-with-slaw",
+   "workout": "Pilates: full-body mat flow (45 mins)",
+   "recovery": false,
+   "affirmation": "I give my children a happy, healthy example.",
+   "brainstack": "Memory game: look at a photo for 1 minute, hide it, then list everything you remember",
+   "reading": {
+    "book": "Ikigai",
+    "from": 91,
+    "to": 100
+   },
+   "milestone": null
+  },
+  {
+   "n": 72,
+   "date": "2027-01-29",
+   "week": 11,
+   "breakfast": "spinach-feta-omelette",
+   "lunch": "falafel-hummus-pitta",
+   "dinner": "butternut-squash-chickpea-stew",
+   "workout": "Brisk walk outdoors (45 mins)",
+   "recovery": false,
+   "affirmation": "I am patient with myself while I grow.",
+   "brainstack": "Brain dump: write every thought on paper, then circle your top 3 for tomorrow",
+   "reading": {
+    "book": "Ikigai",
+    "from": 101,
+    "to": 110
+   },
+   "milestone": null
+  },
+  {
+   "n": 73,
+   "date": "2027-01-30",
+   "week": 11,
+   "breakfast": "greek-yoghurt-parfait",
+   "lunch": "egg-fried-brown-rice",
+   "dinner": "chicken-tikka-with-rice",
+   "workout": "Strength: squats, lunges, glute bridges, wall push-ups x 3 rounds (30 mins) + 15 min walk",
+   "recovery": false,
+   "affirmation": "Good things are coming, and I am ready for them.",
+   "brainstack": "Teach it: explain something you learned this week to someone at home",
+   "reading": {
+    "book": "Ikigai",
+    "from": 111,
+    "to": 120
+   },
+   "milestone": null
+  },
+  {
+   "n": 74,
+   "date": "2027-01-31",
+   "week": 11,
+   "breakfast": "avocado-egg-toast",
+   "lunch": "sweet-potato-black-bean-bowl",
+   "dinner": "beef-noodle-soup-pho-style",
+   "workout": "Pilates: core and posture (45 mins)",
+   "recovery": false,
+   "affirmation": "I trust myself to figure it out.",
+   "brainstack": "Kind note: hand-write a short thank-you message to someone",
+   "reading": {
+    "book": "Ikigai",
+    "from": 121,
+    "to": 130
+   },
+   "milestone": null
+  },
+  {
+   "n": 75,
+   "date": "2027-02-01",
+   "week": 11,
+   "breakfast": "banana-oat-pancakes",
+   "lunch": "prawn-avocado-salad",
+   "dinner": "margherita-flatbread-pizza",
+   "workout": "Dance or a follow-along cardio video (45 mins)",
+   "recovery": false,
+   "affirmation": "Today I show up for me.",
+   "brainstack": "Free choice: pick your favourite activity from this list",
+   "reading": {
+    "book": "Ikigai",
+    "from": 131,
+    "to": 140
+   },
+   "milestone": "YOU DID IT! Treat: something special you have been saving for"
+  }
+ ],
+ "weeks": [
+  {
+   "week": 1,
+   "start": "2026-11-19",
+   "end": "2026-11-25",
+   "fromDay": 1,
+   "toDay": 7,
+   "recipes": [
+    "berry-overnight-oats",
+    "chicken-quinoa-bowl",
+    "lemon-herb-salmon",
+    "spinach-feta-omelette",
+    "lentil-vegetable-soup",
+    "chicken-vegetable-stir-fry",
+    "greek-yoghurt-parfait",
+    "tuna-sweetcorn-wrap",
+    "beef-bean-chilli",
+    "avocado-egg-toast",
+    "chickpea-roasted-veg-couscous",
+    "red-lentil-dhal",
+    "banana-oat-pancakes",
+    "halloumi-roasted-pepper-salad",
+    "baked-chicken-fajitas",
+    "shakshuka-for-one",
+    "falafel-hummus-pitta",
+    "turkey-meatballs-with-spaghetti",
+    "green-smoothie-peanut-butter-toast",
+    "egg-fried-brown-rice",
+    "thai-green-chicken-curry"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Baby potatoes",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Broccoli",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Green beans",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Onions",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Rocket",
+      "Spinach",
+      "Spring onions",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Lean beef mince",
+      "Salmon fillets",
+      "Tuna",
+      "Turkey mince"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Milk",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Breadcrumbs",
+      "Brown rice",
+      "Couscous",
+      "Granola",
+      "Jasmine rice",
+      "Noodles",
+      "Oats",
+      "Quinoa",
+      "Wholegrain bread",
+      "Wholemeal pitta",
+      "Wholemeal tortillas",
+      "Wholemeal wrap",
+      "Wholewheat spaghetti"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Black pepper",
+      "Chia seeds",
+      "Chickpeas",
+      "Chilli flakes",
+      "Chilli powder",
+      "Chilli sauce",
+      "Cinnamon",
+      "Coconut milk",
+      "Cumin",
+      "Fajita spice",
+      "Falafel",
+      "Honey",
+      "Hummus",
+      "Kidney beans",
+      "Light coconut milk",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Peanut butter",
+      "Red lentils",
+      "Roasted red peppers (jar)",
+      "Salsa",
+      "Sesame oil",
+      "Soy sauce",
+      "Sweetcorn",
+      "Thai green paste",
+      "Tinned chopped tomatoes",
+      "Tomato pasta sauce",
+      "Turmeric",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "start": "2026-11-26",
+   "end": "2026-12-02",
+   "fromDay": 8,
+   "toDay": 14,
+   "recipes": [
+    "berry-overnight-oats",
+    "sweet-potato-black-bean-bowl",
+    "spiced-chicken-rice-bariis-style",
+    "spinach-feta-omelette",
+    "prawn-avocado-salad",
+    "chickpea-spinach-curry",
+    "greek-yoghurt-parfait",
+    "mediterranean-pasta-salad",
+    "baked-cod-with-sweet-potato-wedges",
+    "avocado-egg-toast",
+    "chicken-caesar-style-salad",
+    "chicken-shawarma-traybake",
+    "banana-oat-pancakes",
+    "chicken-quinoa-bowl",
+    "prawn-vegetable-paella",
+    "shakshuka-for-one",
+    "lentil-vegetable-soup",
+    "beef-broccoli-stir-fry",
+    "green-smoothie-peanut-butter-toast",
+    "tuna-sweetcorn-wrap",
+    "vegetable-lasagne"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Aubergine",
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Broccoli",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mixed leaves",
+      "Onions",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Rocket",
+      "Romaine lettuce",
+      "Spinach",
+      "Sweet potatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Chicken thighs",
+      "Cod fillets",
+      "Cooked prawns",
+      "Lean beef strips",
+      "Raw prawns",
+      "Tuna"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Milk",
+      "Mozzarella",
+      "Parmesan",
+      "Ricotta",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Basmati rice",
+      "Brown rice",
+      "Flatbreads",
+      "Granola",
+      "Lasagne sheets",
+      "Oats",
+      "Paella rice",
+      "Quinoa",
+      "Rice",
+      "Wholegrain bread",
+      "Wholemeal wrap",
+      "Wholewheat pasta"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Black beans",
+      "Black pepper",
+      "Cardamom",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Cinnamon",
+      "Cinnamon stick",
+      "Cornflour",
+      "Cumin",
+      "Curry powder",
+      "Dijon mustard",
+      "Ground coriander",
+      "Honey",
+      "Olive oil",
+      "Olives",
+      "Oyster sauce",
+      "Paprika",
+      "Peanut butter",
+      "Raisins",
+      "Red lentils",
+      "Saffron or turmeric",
+      "Salsa",
+      "Shawarma spice",
+      "Smoked paprika",
+      "Soy sauce",
+      "Sweetcorn",
+      "Tinned chopped tomatoes",
+      "Tomato pasta sauce",
+      "Tomato paste",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "start": "2026-12-03",
+   "end": "2026-12-09",
+   "fromDay": 15,
+   "toDay": 21,
+   "recipes": [
+    "berry-overnight-oats",
+    "chickpea-roasted-veg-couscous",
+    "moroccan-chicken-tagine",
+    "spinach-feta-omelette",
+    "halloumi-roasted-pepper-salad",
+    "teriyaki-salmon-with-pak-choi",
+    "greek-yoghurt-parfait",
+    "falafel-hummus-pitta",
+    "lamb-kofta-with-tabbouleh",
+    "avocado-egg-toast",
+    "egg-fried-brown-rice",
+    "chicken-mushroom-pasta",
+    "banana-oat-pancakes",
+    "sweet-potato-black-bean-bowl",
+    "stuffed-peppers",
+    "shakshuka-for-one",
+    "prawn-avocado-salad",
+    "jollof-rice-with-chicken",
+    "green-smoothie-peanut-butter-toast",
+    "mediterranean-pasta-salad",
+    "fish-tacos-with-slaw"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Carrots",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Mushrooms",
+      "Onions",
+      "Pak choi",
+      "Parsley or dill",
+      "Peppers",
+      "Red cabbage",
+      "Red onions",
+      "Scotch bonnet",
+      "Spinach",
+      "Spring onions",
+      "Sweet potatoes",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Chicken thighs",
+      "Cooked prawns",
+      "Lean beef mince",
+      "Lean lamb mince",
+      "Salmon fillets",
+      "White fish fillets"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Cheese",
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Light cream cheese",
+      "Milk",
+      "Parmesan",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Brown rice",
+      "Bulgur wheat",
+      "Couscous",
+      "Granola",
+      "Long-grain rice",
+      "Oats",
+      "Rice",
+      "Small tortillas",
+      "Wholegrain bread",
+      "Wholemeal pitta",
+      "Wholewheat pasta"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Black beans",
+      "Black pepper",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Chilli sauce",
+      "Cinnamon",
+      "Cumin",
+      "Curry powder",
+      "Dried apricots",
+      "Falafel",
+      "Ground coriander",
+      "Honey",
+      "Hummus",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Peanut butter",
+      "Ras el hanout",
+      "Roasted red peppers (jar)",
+      "Salsa",
+      "Sesame oil",
+      "Sesame seeds",
+      "Smoked paprika",
+      "Soy sauce",
+      "Sweetcorn",
+      "Thyme",
+      "Tinned chopped tomatoes",
+      "Tinned plum tomatoes",
+      "Tomato paste"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "start": "2026-12-10",
+   "end": "2026-12-16",
+   "fromDay": 22,
+   "toDay": 28,
+   "recipes": [
+    "berry-overnight-oats",
+    "chicken-caesar-style-salad",
+    "butternut-squash-chickpea-stew",
+    "spinach-feta-omelette",
+    "chicken-quinoa-bowl",
+    "chicken-tikka-with-rice",
+    "greek-yoghurt-parfait",
+    "lentil-vegetable-soup",
+    "beef-noodle-soup-pho-style",
+    "avocado-egg-toast",
+    "tuna-sweetcorn-wrap",
+    "margherita-flatbread-pizza",
+    "banana-oat-pancakes",
+    "chickpea-roasted-veg-couscous",
+    "lemon-herb-salmon",
+    "shakshuka-for-one",
+    "halloumi-roasted-pepper-salad",
+    "chicken-vegetable-stir-fry",
+    "green-smoothie-peanut-butter-toast",
+    "falafel-hummus-pitta",
+    "beef-bean-chilli"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Baby potatoes",
+      "Bananas",
+      "Basil",
+      "Beansprouts",
+      "Berries",
+      "Broccoli",
+      "Butternut squash",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Green beans",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Onions",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Rocket",
+      "Romaine lettuce",
+      "Spinach",
+      "Spring onions",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Lean beef mince",
+      "Salmon fillets",
+      "Thin beef steak",
+      "Tuna"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Milk",
+      "Mozzarella",
+      "Parmesan",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Brown rice",
+      "Couscous",
+      "Crusty bread",
+      "Granola",
+      "Noodles",
+      "Oats",
+      "Quinoa",
+      "Rice",
+      "Rice noodles",
+      "Wholegrain bread",
+      "Wholemeal flatbreads",
+      "Wholemeal pitta",
+      "Wholemeal wrap"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Beef stock",
+      "Black pepper",
+      "Chia seeds",
+      "Chickpeas",
+      "Chilli flakes",
+      "Chilli powder",
+      "Chilli sauce",
+      "Cinnamon",
+      "Cinnamon stick",
+      "Cumin",
+      "Dijon mustard",
+      "Falafel",
+      "Honey",
+      "Hummus",
+      "Kidney beans",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Passata",
+      "Peanut butter",
+      "Red lentils",
+      "Roasted red peppers (jar)",
+      "Soy sauce",
+      "Star anise",
+      "Sweetcorn",
+      "Tikka spice",
+      "Tinned chopped tomatoes",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "start": "2026-12-17",
+   "end": "2026-12-23",
+   "fromDay": 29,
+   "toDay": 35,
+   "recipes": [
+    "berry-overnight-oats",
+    "egg-fried-brown-rice",
+    "red-lentil-dhal",
+    "spinach-feta-omelette",
+    "sweet-potato-black-bean-bowl",
+    "baked-chicken-fajitas",
+    "greek-yoghurt-parfait",
+    "prawn-avocado-salad",
+    "turkey-meatballs-with-spaghetti",
+    "avocado-egg-toast",
+    "mediterranean-pasta-salad",
+    "thai-green-chicken-curry",
+    "banana-oat-pancakes",
+    "chicken-caesar-style-salad",
+    "spiced-chicken-rice-bariis-style",
+    "shakshuka-for-one",
+    "chicken-quinoa-bowl",
+    "chickpea-spinach-curry",
+    "green-smoothie-peanut-butter-toast",
+    "lentil-vegetable-soup",
+    "baked-cod-with-sweet-potato-wedges"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Green beans",
+      "Lemons",
+      "Limes",
+      "Mixed leaves",
+      "Onions",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Rocket",
+      "Romaine lettuce",
+      "Spinach",
+      "Spring onions",
+      "Sweet potatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Chicken thighs",
+      "Cod fillets",
+      "Cooked prawns",
+      "Turkey mince"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Milk",
+      "Parmesan",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Basmati rice",
+      "Breadcrumbs",
+      "Brown rice",
+      "Granola",
+      "Jasmine rice",
+      "Oats",
+      "Quinoa",
+      "Wholegrain bread",
+      "Wholemeal tortillas",
+      "Wholewheat pasta",
+      "Wholewheat spaghetti"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Black beans",
+      "Black pepper",
+      "Cardamom",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Cinnamon",
+      "Cinnamon stick",
+      "Coconut milk",
+      "Cumin",
+      "Curry powder",
+      "Dijon mustard",
+      "Fajita spice",
+      "Ground coriander",
+      "Honey",
+      "Light coconut milk",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Peanut butter",
+      "Raisins",
+      "Red lentils",
+      "Salsa",
+      "Sesame oil",
+      "Smoked paprika",
+      "Soy sauce",
+      "Sweetcorn",
+      "Thai green paste",
+      "Tinned chopped tomatoes",
+      "Tomato pasta sauce",
+      "Tomato paste",
+      "Turmeric",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "start": "2026-12-24",
+   "end": "2026-12-30",
+   "fromDay": 36,
+   "toDay": 42,
+   "recipes": [
+    "berry-overnight-oats",
+    "tuna-sweetcorn-wrap",
+    "chicken-shawarma-traybake",
+    "spinach-feta-omelette",
+    "chickpea-roasted-veg-couscous",
+    "prawn-vegetable-paella",
+    "greek-yoghurt-parfait",
+    "halloumi-roasted-pepper-salad",
+    "beef-broccoli-stir-fry",
+    "avocado-egg-toast",
+    "falafel-hummus-pitta",
+    "vegetable-lasagne",
+    "banana-oat-pancakes",
+    "egg-fried-brown-rice",
+    "moroccan-chicken-tagine",
+    "shakshuka-for-one",
+    "sweet-potato-black-bean-bowl",
+    "teriyaki-salmon-with-pak-choi",
+    "green-smoothie-peanut-butter-toast",
+    "prawn-avocado-salad",
+    "lamb-kofta-with-tabbouleh"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Aubergine",
+      "Avocados",
+      "Bananas",
+      "Berries",
+      "Broccoli",
+      "Carrots",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Onions",
+      "Pak choi",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Spinach",
+      "Spring onions",
+      "Sweet potatoes",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken thighs",
+      "Cooked prawns",
+      "Lean beef strips",
+      "Lean lamb mince",
+      "Raw prawns",
+      "Salmon fillets",
+      "Tuna"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Milk",
+      "Mozzarella",
+      "Ricotta",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Brown rice",
+      "Bulgur wheat",
+      "Couscous",
+      "Flatbreads",
+      "Granola",
+      "Lasagne sheets",
+      "Oats",
+      "Paella rice",
+      "Rice",
+      "Wholegrain bread",
+      "Wholemeal pitta",
+      "Wholemeal wrap"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Black beans",
+      "Black pepper",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Chilli sauce",
+      "Cinnamon",
+      "Cornflour",
+      "Cumin",
+      "Dried apricots",
+      "Falafel",
+      "Ground coriander",
+      "Honey",
+      "Hummus",
+      "Olive oil",
+      "Olives",
+      "Oyster sauce",
+      "Paprika",
+      "Peanut butter",
+      "Ras el hanout",
+      "Roasted red peppers (jar)",
+      "Saffron or turmeric",
+      "Salsa",
+      "Sesame oil",
+      "Sesame seeds",
+      "Shawarma spice",
+      "Smoked paprika",
+      "Soy sauce",
+      "Sweetcorn",
+      "Tinned chopped tomatoes",
+      "Tomato pasta sauce"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "start": "2026-12-31",
+   "end": "2027-01-06",
+   "fromDay": 43,
+   "toDay": 49,
+   "recipes": [
+    "berry-overnight-oats",
+    "mediterranean-pasta-salad",
+    "chicken-mushroom-pasta",
+    "spinach-feta-omelette",
+    "chicken-caesar-style-salad",
+    "stuffed-peppers",
+    "greek-yoghurt-parfait",
+    "chicken-quinoa-bowl",
+    "jollof-rice-with-chicken",
+    "avocado-egg-toast",
+    "lentil-vegetable-soup",
+    "fish-tacos-with-slaw",
+    "banana-oat-pancakes",
+    "tuna-sweetcorn-wrap",
+    "butternut-squash-chickpea-stew",
+    "shakshuka-for-one",
+    "chickpea-roasted-veg-couscous",
+    "chicken-tikka-with-rice",
+    "green-smoothie-peanut-butter-toast",
+    "halloumi-roasted-pepper-salad",
+    "beef-noodle-soup-pho-style"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Beansprouts",
+      "Berries",
+      "Butternut squash",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Mushrooms",
+      "Onions",
+      "Peppers",
+      "Red cabbage",
+      "Red onions",
+      "Rocket",
+      "Romaine lettuce",
+      "Scotch bonnet",
+      "Spinach",
+      "Spring onions",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Chicken thighs",
+      "Lean beef mince",
+      "Thin beef steak",
+      "Tuna",
+      "White fish fillets"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Cheese",
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Light cream cheese",
+      "Milk",
+      "Parmesan",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Couscous",
+      "Crusty bread",
+      "Granola",
+      "Long-grain rice",
+      "Oats",
+      "Quinoa",
+      "Rice",
+      "Rice noodles",
+      "Small tortillas",
+      "Wholegrain bread",
+      "Wholemeal wrap",
+      "Wholewheat pasta"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Beef stock",
+      "Black pepper",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Cinnamon",
+      "Cinnamon stick",
+      "Cumin",
+      "Curry powder",
+      "Dijon mustard",
+      "Honey",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Peanut butter",
+      "Red lentils",
+      "Roasted red peppers (jar)",
+      "Smoked paprika",
+      "Soy sauce",
+      "Star anise",
+      "Sweetcorn",
+      "Thyme",
+      "Tikka spice",
+      "Tinned chopped tomatoes",
+      "Tinned plum tomatoes",
+      "Tomato paste",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "start": "2027-01-07",
+   "end": "2027-01-13",
+   "fromDay": 50,
+   "toDay": 56,
+   "recipes": [
+    "berry-overnight-oats",
+    "falafel-hummus-pitta",
+    "margherita-flatbread-pizza",
+    "spinach-feta-omelette",
+    "egg-fried-brown-rice",
+    "lemon-herb-salmon",
+    "greek-yoghurt-parfait",
+    "sweet-potato-black-bean-bowl",
+    "chicken-vegetable-stir-fry",
+    "avocado-egg-toast",
+    "prawn-avocado-salad",
+    "beef-bean-chilli",
+    "banana-oat-pancakes",
+    "mediterranean-pasta-salad",
+    "red-lentil-dhal",
+    "shakshuka-for-one",
+    "chicken-caesar-style-salad",
+    "baked-chicken-fajitas",
+    "green-smoothie-peanut-butter-toast",
+    "chicken-quinoa-bowl",
+    "turkey-meatballs-with-spaghetti"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Baby potatoes",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Broccoli",
+      "Carrots",
+      "Cherry tomatoes",
+      "Coriander",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Green beans",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mixed leaves",
+      "Onions",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Rocket",
+      "Romaine lettuce",
+      "Spinach",
+      "Spring onions",
+      "Sweet potatoes",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Cooked prawns",
+      "Lean beef mince",
+      "Salmon fillets",
+      "Turkey mince"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Milk",
+      "Mozzarella",
+      "Parmesan",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Breadcrumbs",
+      "Brown rice",
+      "Granola",
+      "Noodles",
+      "Oats",
+      "Quinoa",
+      "Wholegrain bread",
+      "Wholemeal flatbreads",
+      "Wholemeal pitta",
+      "Wholemeal tortillas",
+      "Wholewheat pasta",
+      "Wholewheat spaghetti"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Black beans",
+      "Black pepper",
+      "Chia seeds",
+      "Chilli flakes",
+      "Chilli powder",
+      "Chilli sauce",
+      "Cinnamon",
+      "Coconut milk",
+      "Cumin",
+      "Dijon mustard",
+      "Fajita spice",
+      "Falafel",
+      "Honey",
+      "Hummus",
+      "Kidney beans",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Passata",
+      "Peanut butter",
+      "Red lentils",
+      "Salsa",
+      "Sesame oil",
+      "Smoked paprika",
+      "Soy sauce",
+      "Sweetcorn",
+      "Tinned chopped tomatoes",
+      "Tomato pasta sauce",
+      "Turmeric"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "start": "2027-01-14",
+   "end": "2027-01-20",
+   "fromDay": 57,
+   "toDay": 63,
+   "recipes": [
+    "berry-overnight-oats",
+    "lentil-vegetable-soup",
+    "thai-green-chicken-curry",
+    "spinach-feta-omelette",
+    "tuna-sweetcorn-wrap",
+    "spiced-chicken-rice-bariis-style",
+    "greek-yoghurt-parfait",
+    "chickpea-roasted-veg-couscous",
+    "chickpea-spinach-curry",
+    "avocado-egg-toast",
+    "halloumi-roasted-pepper-salad",
+    "baked-cod-with-sweet-potato-wedges",
+    "banana-oat-pancakes",
+    "falafel-hummus-pitta",
+    "chicken-shawarma-traybake",
+    "shakshuka-for-one",
+    "egg-fried-brown-rice",
+    "prawn-vegetable-paella",
+    "green-smoothie-peanut-butter-toast",
+    "sweet-potato-black-bean-bowl",
+    "beef-broccoli-stir-fry"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Broccoli",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Green beans",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Onions",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Spinach",
+      "Spring onions",
+      "Sweet potatoes",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Chicken thighs",
+      "Cod fillets",
+      "Lean beef strips",
+      "Raw prawns",
+      "Tuna"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Milk",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Basmati rice",
+      "Brown rice",
+      "Couscous",
+      "Flatbreads",
+      "Granola",
+      "Jasmine rice",
+      "Oats",
+      "Paella rice",
+      "Rice",
+      "Wholegrain bread",
+      "Wholemeal pitta",
+      "Wholemeal wrap"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Black beans",
+      "Black pepper",
+      "Cardamom",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Chilli sauce",
+      "Cinnamon",
+      "Cinnamon stick",
+      "Cornflour",
+      "Cumin",
+      "Curry powder",
+      "Falafel",
+      "Ground coriander",
+      "Honey",
+      "Hummus",
+      "Light coconut milk",
+      "Olive oil",
+      "Olives",
+      "Oyster sauce",
+      "Paprika",
+      "Peanut butter",
+      "Raisins",
+      "Red lentils",
+      "Roasted red peppers (jar)",
+      "Saffron or turmeric",
+      "Salsa",
+      "Sesame oil",
+      "Shawarma spice",
+      "Smoked paprika",
+      "Soy sauce",
+      "Sweetcorn",
+      "Thai green paste",
+      "Tinned chopped tomatoes",
+      "Tomato paste",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "start": "2027-01-21",
+   "end": "2027-01-27",
+   "fromDay": 64,
+   "toDay": 70,
+   "recipes": [
+    "berry-overnight-oats",
+    "prawn-avocado-salad",
+    "vegetable-lasagne",
+    "spinach-feta-omelette",
+    "mediterranean-pasta-salad",
+    "moroccan-chicken-tagine",
+    "greek-yoghurt-parfait",
+    "chicken-caesar-style-salad",
+    "teriyaki-salmon-with-pak-choi",
+    "avocado-egg-toast",
+    "chicken-quinoa-bowl",
+    "lamb-kofta-with-tabbouleh",
+    "banana-oat-pancakes",
+    "lentil-vegetable-soup",
+    "chicken-mushroom-pasta",
+    "shakshuka-for-one",
+    "tuna-sweetcorn-wrap",
+    "stuffed-peppers",
+    "green-smoothie-peanut-butter-toast",
+    "chickpea-roasted-veg-couscous",
+    "jollof-rice-with-chicken"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Aubergine",
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Berries",
+      "Carrots",
+      "Celery sticks",
+      "Cherry tomatoes",
+      "Coriander",
+      "Courgettes",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mint",
+      "Mixed leaves",
+      "Mushrooms",
+      "Onions",
+      "Pak choi",
+      "Parsley or dill",
+      "Peppers",
+      "Red onions",
+      "Rocket",
+      "Romaine lettuce",
+      "Scotch bonnet",
+      "Spinach",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Chicken thighs",
+      "Cooked prawns",
+      "Lean beef mince",
+      "Lean lamb mince",
+      "Salmon fillets",
+      "Tuna"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Cheese",
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Light cream cheese",
+      "Milk",
+      "Mozzarella",
+      "Parmesan",
+      "Ricotta",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Bulgur wheat",
+      "Couscous",
+      "Granola",
+      "Lasagne sheets",
+      "Long-grain rice",
+      "Oats",
+      "Quinoa",
+      "Rice",
+      "Wholegrain bread",
+      "Wholemeal wrap",
+      "Wholewheat pasta"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Black pepper",
+      "Chia seeds",
+      "Chicken stock",
+      "Chickpeas",
+      "Chilli flakes",
+      "Cinnamon",
+      "Cumin",
+      "Curry powder",
+      "Dijon mustard",
+      "Dried apricots",
+      "Ground coriander",
+      "Honey",
+      "Olive oil",
+      "Olives",
+      "Paprika",
+      "Peanut butter",
+      "Ras el hanout",
+      "Red lentils",
+      "Sesame seeds",
+      "Soy sauce",
+      "Sweetcorn",
+      "Thyme",
+      "Tinned chopped tomatoes",
+      "Tinned plum tomatoes",
+      "Tomato pasta sauce",
+      "Tomato paste",
+      "Veg stock"
+     ]
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "start": "2027-01-28",
+   "end": "2027-02-01",
+   "fromDay": 71,
+   "toDay": 75,
+   "recipes": [
+    "berry-overnight-oats",
+    "halloumi-roasted-pepper-salad",
+    "fish-tacos-with-slaw",
+    "spinach-feta-omelette",
+    "falafel-hummus-pitta",
+    "butternut-squash-chickpea-stew",
+    "greek-yoghurt-parfait",
+    "egg-fried-brown-rice",
+    "chicken-tikka-with-rice",
+    "avocado-egg-toast",
+    "sweet-potato-black-bean-bowl",
+    "beef-noodle-soup-pho-style",
+    "banana-oat-pancakes",
+    "prawn-avocado-salad",
+    "margherita-flatbread-pizza"
+   ],
+   "shopping": [
+    {
+     "category": "🥬 Fruit and veg",
+     "items": [
+      "Avocados",
+      "Bananas",
+      "Basil",
+      "Beansprouts",
+      "Berries",
+      "Butternut squash",
+      "Carrots",
+      "Cherry tomatoes",
+      "Coriander",
+      "Cucumber",
+      "Garlic",
+      "Ginger",
+      "Lemons",
+      "Lettuce",
+      "Limes",
+      "Mixed leaves",
+      "Onions",
+      "Red cabbage",
+      "Red onions",
+      "Spinach",
+      "Spring onions",
+      "Sweet potatoes",
+      "Tomatoes"
+     ]
+    },
+    {
+     "category": "🍗 Meat and fish",
+     "items": [
+      "Chicken breasts",
+      "Cooked prawns",
+      "Thin beef steak",
+      "White fish fillets"
+     ]
+    },
+    {
+     "category": "🥚 Dairy and eggs",
+     "items": [
+      "Eggs",
+      "Feta",
+      "Greek yoghurt",
+      "Halloumi",
+      "Milk",
+      "Mozzarella",
+      "Yoghurt"
+     ]
+    },
+    {
+     "category": "🧊 Freezer",
+     "items": [
+      "Frozen peas"
+     ]
+    },
+    {
+     "category": "🍞 Bread and grains",
+     "items": [
+      "Brown rice",
+      "Crusty bread",
+      "Granola",
+      "Oats",
+      "Rice",
+      "Rice noodles",
+      "Small tortillas",
+      "Wholegrain bread",
+      "Wholemeal flatbreads",
+      "Wholemeal pitta"
+     ]
+    },
+    {
+     "category": "🥫 Cupboard",
+     "items": [
+      "Balsamic",
+      "Beef stock",
+      "Black beans",
+      "Black pepper",
+      "Chia seeds",
+      "Chickpeas",
+      "Chilli flakes",
+      "Chilli sauce",
+      "Cinnamon",
+      "Cinnamon stick",
+      "Cumin",
+      "Falafel",
+      "Honey",
+      "Hummus",
+      "Olive oil",
+      "Olives",
+      "Passata",
+      "Roasted red peppers (jar)",
+      "Salsa",
+      "Sesame oil",
+      "Smoked paprika",
+      "Soy sauce",
+      "Star anise",
+      "Sweetcorn",
+      "Tikka spice",
+      "Tinned chopped tomatoes",
+      "Veg stock"
+     ]
+    }
+   ]
+  }
+ ],
+ "journal": [
+  {
+   "week": 1,
+   "title": "New beginnings",
+   "prompt": "Why am I doing 75 Soft? Make a page about the version of me I am growing into.",
+   "collect": "a receipt from your first big healthy shop, a tea bag tag, a pressed leaf from your walk"
+  },
+  {
+   "week": 2,
+   "title": "Kitchen memories",
+   "prompt": "Your favourite meal this week. Who did you share it with, and what did it remind you of?",
+   "collect": "a fruit or veg sticker, a spice jar label, a corner of a food packet you love"
+  },
+  {
+   "week": 3,
+   "title": "Things I saw on my walks",
+   "prompt": "Make a map of the places your feet took you this week.",
+   "collect": "a bus ticket, a leaf or flower, a photo of something beautiful you passed"
+  },
+  {
+   "week": 4,
+   "title": "Lines I loved",
+   "prompt": "Pick a sentence from your reading that stayed with you and build a page around it.",
+   "collect": "a bookmark, an old envelope, a strip of patterned paper or washi tape"
+  },
+  {
+   "week": 5,
+   "title": "Winter cosiness",
+   "prompt": "What makes you feel warm and safe in the dark winter evenings?",
+   "collect": "wrapping paper, a card or gift tag, a ribbon offcut"
+  },
+  {
+   "week": 6,
+   "title": "Goodbye 2026",
+   "prompt": "The moments, wins and lessons of this year that you want to keep.",
+   "collect": "a ticket or flyer from this year, a photo print, a sticky note with a win on it"
+  },
+  {
+   "week": 7,
+   "title": "Hello 2027",
+   "prompt": "A soft vision board for the year ahead: driving, tech, studying and joy.",
+   "collect": "magazine cut-outs, a calendar page, words or letters you like"
+  },
+  {
+   "week": 8,
+   "title": "Halfway bloom",
+   "prompt": "Day 50 is here. How have you changed since Day 1?",
+   "collect": "a pressed petal from your milestone flowers, a museum ticket, a treat receipt"
+  },
+  {
+   "week": 9,
+   "title": "Art that moves me",
+   "prompt": "Choose a painting or artwork you love and make a page inspired by its colours.",
+   "collect": "a postcard, a gallery leaflet, paint swatches from a DIY shop"
+  },
+  {
+   "week": 10,
+   "title": "Letters of thanks",
+   "prompt": "Who helped you through this challenge? Write them a little thank-you.",
+   "collect": "a small envelope, a stamp, a drawing from your children"
+  },
+  {
+   "week": 11,
+   "title": "I did it",
+   "prompt": "Your Day 75 celebration page. Everything you are proud of.",
+   "collect": "the best bits you saved over 75 days, a ribbon, gold stickers"
+  }
+ ]
+}

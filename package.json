@@ -1,0 +1,18 @@
+{
+  "name": "soft75",
+  "private": true,
+  "description": "75 Soft Studio: a full-stack wellness challenge tracker (React, Node/Express, SQLite)",
+  "workspaces": ["server", "client"],
+  "scripts": {
+    "setup": "npm install && npm run seed",
+    "seed": "npm --workspace server run seed",
+    "dev": "concurrently -n api,web -c magenta,cyan \"npm --workspace server run dev\" \"npm --workspace client run dev\"",
+    "test": "npm --workspace server test && npm --workspace client test",
+    "build": "npm --workspace client run build",
+    "start": "npm run build && npm --workspace server start"
+  },
+  "devDependencies": {
+    "concurrently": "9.1.2"
+  },
+  "engines": { "node": ">=20" }
+}
