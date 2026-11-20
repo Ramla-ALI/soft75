@@ -6,7 +6,7 @@ import Weekly from './pages/Weekly.jsx';
 import Journal from './pages/Journal.jsx';
 import Recipes from './pages/Recipes.jsx';
 import RecipeModal from './components/RecipeModal.jsx';
-import { todayDay } from './api.js';
+import { todayDay, IS_DEMO } from './api.js';
 
 const TABS = [
   { id: 'today', label: '☀️ Today' },
@@ -49,6 +49,12 @@ export default function App() {
           ))}
         </nav>
       </header>
+      {IS_DEMO && (
+        <p className="demo">
+          Live demo: your ticks are saved in this browser only. The full version runs on a Node/Express API and SQL database.{' '}
+          <a href="https://github.com/Ramla-ALI/soft75">See the code</a>
+        </p>
+      )}
       <main>
         {tab === 'today' && <Today day={day} setDay={setDay} openRecipe={setRecipeId} />}
         {tab === 'plan' && <Plan openDay={openDay} />}

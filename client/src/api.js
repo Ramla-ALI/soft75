@@ -10,7 +10,11 @@ async function call(method, path, body) {
   return data;
 }
 
-export const api = {
+import { demoApi } from './demoApi.js';
+
+export const IS_DEMO = import.meta.env.VITE_DEMO === 'true';
+
+const serverApi = {
   day: (n) => call('GET', `/days/${n}`),
   log: (n) => call('GET', `/logs/days/${n}`),
   logs: () => call('GET', '/logs/days'),
@@ -24,6 +28,9 @@ export const api = {
   saveJournal: (w, changes) => call('PATCH', `/journal/${w}`, changes),
   progress: (today) => call('GET', `/progress?today=${today}`),
 };
+
+// On GitHub Pages there is no server, so the demo build uses the in-browser version.
+export const api = IS_DEMO ? demoApi : serverApi;
 
 export const START = '2026-11-19';
 export const todayIso = () => {

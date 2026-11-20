@@ -4,6 +4,8 @@ A full-stack web app for tracking the **75 Soft** wellness challenge: four daily
 
 Built by **Ramla Hussein** as a portfolio project.
 
+**[✨ Try the live demo](https://ramla-ali.github.io/soft75/)** (runs in your browser; ticks are saved on your device)
+
 ![Tests](https://img.shields.io/badge/tests-17%20passing-6f9a82) ![Stack](https://img.shields.io/badge/stack-React%20·%20Express%20·%20SQLite-c25a7c)
 
 ## Features
@@ -36,6 +38,8 @@ flowchart LR
 ```
 
 In development, Vite proxies `/api` calls to Express. In production, Express serves the built React app and the API from one server.
+
+The **live demo** on GitHub Pages is a separate build (`VITE_DEMO=true`). GitHub Pages can't run a server, so `client/src/demoApi.js` provides the same API in the browser, using the same seed data and saving to `localStorage`. A GitHub Actions workflow (`pages.yml`) builds and deploys it on every push.
 
 ## Database design
 

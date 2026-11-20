@@ -159,3 +159,6 @@ dialog ol,dialog ul{margin:0;padding-left:20px;display:grid;gap:6px}
 .postit p{margin:0}.postit .small{font-size:13px}
 details{margin-top:12px}details summary{cursor:pointer;font-weight:600}details .rlist{margin-top:8px}
 .aff{margin:0}
+
+.demo{margin:12px 0 0;padding:10px 14px;border-radius:12px;background:var(--butter);color:var(--butter-ink);font-size:13.5px}
+.demo a{color:inherit;font-weight:700}
